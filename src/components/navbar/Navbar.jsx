@@ -182,7 +182,7 @@ function Navbar() {
                     <img
                       className="inline-block w-10 h-10 rounded-full"
                       src="https://img.freepik.com/premium-vector/accoun-vector-icon-with-long-shadow-white-illustration-isolated-blue-round-background-graphic-web-design_549897-771.jpg"
-                      alt="Dan_Abromov" />
+                      alt="PP" />
                   </a>
                 </div>
 
